@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactpractice/static/css/main.334bdeb1.css",
+    "main.js": "/reactpractice/static/js/main.67c2a296.js",
+    "index.html": "/reactpractice/index.html",
+    "static/media/search.svg": "/reactpractice/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/reactpractice/static/css/main.334bdeb1.css.map",
+    "main.67c2a296.js.map": "/reactpractice/static/js/main.67c2a296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.67c2a296.js"
+  ]
+}
